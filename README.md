@@ -7,9 +7,9 @@ settings.xml
 
 For local or internal Jenkins.  Either use this file or some of its contents to setup access to our new Nexus server.
 
-You will require the password to use this - please contact the tooling team (Slack: #tooling-team) to obtain a share.
+You will require a system account.  If you don't already have one contact Service Desk to create one.
 
-**Important:** In the interest of security we may rotate the password and notice will be given.  
+**Important:** In the interest of security you should consider changing this password on a regular basis.
 
 public-settings.xml
 ===================

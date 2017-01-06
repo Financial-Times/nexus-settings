@@ -8,23 +8,23 @@
     <servers>
         <server>
             <id>Nexus</id>
-            <username>deployment</username>
-            <password>[replace with password]</password>
+            <username>[replace with system account username]</username>
+            <password>[replace with system account password]</password>
         </server>
         <server>
             <id>nexus-public-snapshots</id>
-            <username>deployment</username>
-            <password>[replace with password]</password>
+            <username>[replace with system account username]</username>
+            <password>[replace with system account password]</password>
         </server>
         <server>
             <id>releases</id>
-            <username>deployment</username>
-            <password>[replace with password]</password>
+            <username>[replace with system account username]</username>
+            <password>[replace with system account password]</password>
         </server>
         <server>
             <id>snapshots</id>
-            <username>deployment</username>
-            <password>[replace with password]</password>
+            <username>[replace with system account username]</username>
+            <password>[replace with system account password]</password>
         </server>
     </servers>
     <mirrors>
