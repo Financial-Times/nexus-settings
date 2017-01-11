@@ -4,7 +4,7 @@
                           https://maven.apache.org/xsd/settings-1.0.0.xsd">
 
     <!-- NOTE: THIS FILE IS NOT TO BE USED IN A PUBLIC CI TOOL! See public-settings.xml -->
-
+    <!-- For extra security consider encrypting your password and using settings-security.xml -->      
     <servers>
         <server>
             <id>Nexus</id>
